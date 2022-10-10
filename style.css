@@ -1,0 +1,96 @@
+/* header */
+header {
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: rgb(206, 25, 25);
+    text-align: right;
+    margin-bottom: 15px;
+    width:1515px;
+}
+.logo {
+    width: 3px;
+}
+/* Place the menu to the right of the page. */
+.menu {
+    /* margin: auto 0; */
+    align-items: flex-end;
+    margin: 5px 10px 0;
+}
+.menu-list{
+    display: inline-flex;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.menu-list li {
+    padding: 0 5px;
+  }
+  .menu-list li a{
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+    text-align: center;
+    
+  }
+  header img{
+     width: 79px;
+}
+
+h4{
+    border-style: groove;
+    text-align: center;
+    }
+    img{
+        width:1520px;
+    }
+    .menu-list2 li {
+        padding: 0 120px;
+      }
+    .menu-list2 li a{
+        text-decoration: none;
+        color: rgb(78, 74, 74);
+        text-align: right;
+    
+    }
+    .menu-list2{
+        display: inline-flex;
+        list-style: none;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    /* Add a black background color to the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  form{
+    align-items: flex-end;
+  }
+  h1{
+    font-style: oblique;
+    color: red;
+    text-align: center;
+    text-size-adjust: 2000px
+  }
+ footer{
+    border-style: groove;
+    background-color: rgb(206, 24, 24);
+ }
+ .menu-list2 li {
+    padding: 0 120px;
+  }
+.menu-list2 li a{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    text-align: right;
+
+}
+.menu-list2{
+    display: inline-flex;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 15px;
+}
+h5{
+  text-align: center;
+  color: antiquewhite;
+}
